@@ -1,0 +1,148 @@
+PRESOLVED
+0
+NBLOCKS
+14
+BLOCK	1
+w_con2_0_0
+w_con2_0_1
+sec_con0_2_0_0
+sec_con0_2_0_1
+sec_con1_2_0_0
+sec_con1_2_0_1
+sec_con2_2_0_0
+sec_con2_2_0_1
+BLOCK	2
+w_con2_1_0
+w_con2_1_1
+sec_con0_2_1_0
+sec_con0_2_1_1
+sec_con1_2_1_0
+sec_con1_2_1_1
+sec_con2_2_1_0
+sec_con2_2_1_1
+BLOCK	3
+w_con3_0_0
+w_con3_0_1
+sec_con0_3_0_0
+sec_con0_3_0_1
+sec_con1_3_0_0
+sec_con1_3_0_1
+sec_con2_3_0_0
+sec_con2_3_0_1
+BLOCK	4
+w_con3_1_0
+w_con3_1_1
+sec_con0_3_1_0
+sec_con0_3_1_1
+sec_con1_3_1_0
+sec_con1_3_1_1
+sec_con2_3_1_0
+sec_con2_3_1_1
+BLOCK	5
+w_con3_2_0
+w_con3_2_1
+sec_con0_3_2_0
+sec_con0_3_2_1
+sec_con1_3_2_0
+sec_con1_3_2_1
+sec_con2_3_2_0
+sec_con2_3_2_1
+BLOCK	6
+w_con3_3_0
+w_con3_3_1
+sec_con0_3_3_0
+sec_con0_3_3_1
+sec_con1_3_3_0
+sec_con1_3_3_1
+sec_con2_3_3_0
+sec_con2_3_3_1
+BLOCK	7
+w_con4_0_0
+sec_con0_4_0_0
+sec_con1_4_0_0
+sec_con2_4_0_0
+BLOCK	8
+w_con4_1_0
+sec_con0_4_1_0
+sec_con1_4_1_0
+sec_con2_4_1_0
+BLOCK	9
+w_con4_2_0
+sec_con0_4_2_0
+sec_con1_4_2_0
+sec_con2_4_2_0
+BLOCK	10
+w_con4_3_0
+sec_con0_4_3_0
+sec_con1_4_3_0
+sec_con2_4_3_0
+BLOCK	11
+w_con4_4_0
+sec_con0_4_4_0
+sec_con1_4_4_0
+sec_con2_4_4_0
+BLOCK	12
+w_con4_5_0
+sec_con0_4_5_0
+sec_con1_4_5_0
+sec_con2_4_5_0
+BLOCK	13
+w_con4_6_0
+sec_con0_4_6_0
+sec_con1_4_6_0
+sec_con2_4_6_0
+BLOCK	14
+w_con4_7_0
+sec_con0_4_7_0
+sec_con1_4_7_0
+sec_con2_4_7_0
+MASTERCONSS
+sh_con2_0_0
+sh_con2_0_1
+sh_con2_0_2
+sh_con2_0_3
+sh_con2_1_0
+sh_con2_1_1
+sh_con2_1_2
+sh_con2_1_3
+sh_con3_0_0
+sh_con3_0_1
+sh_con3_1_0
+sh_con3_1_1
+sh_con3_2_0
+sh_con3_2_1
+sh_con3_3_0
+sh_con3_3_1
+sh_con4_0_0
+sh_con4_1_0
+sh_con4_2_0
+sh_con4_3_0
+sh_con4_4_0
+sh_con4_5_0
+sh_con4_6_0
+sh_con4_7_0
+z_con0_2
+z_con0_3
+z_con0_4
+z_con1_2
+z_con1_3
+z_con1_4
+z_con2_2
+z_con2_3
+z_con2_4
+z_con3_2
+z_con3_3
+z_con3_4
+z_con4_2
+z_con4_3
+z_con4_4
+z_con5_2
+z_con5_3
+z_con5_4
+z_con6_2
+z_con6_3
+z_con6_4
+z_con7_2
+z_con7_3
+z_con7_4
+AlphaCon
